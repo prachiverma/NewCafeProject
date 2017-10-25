@@ -1,0 +1,7 @@
+Pages\LaunchPage.class
+Pages\CreatePage.class
+com\testcompany\project\Projectcafe\BasePg.class
+Pages\LandingPage.class
+Pages\EditPage.class
+Pages\LoginPage.class
+com\testcompany\project\Projectcafe\ReadPropertyFile.class
